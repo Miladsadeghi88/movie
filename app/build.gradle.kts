@@ -53,5 +53,6 @@ dependencies {
     implementation (libs.circleimageview)
     implementation(libs.lifecycle.livedata.ktx)
     implementation(libs.lifecycle.viewmodel.ktx)
+    implementation(libs.picasso)
 
 }

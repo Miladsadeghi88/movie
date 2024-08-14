@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">movie</string>
+    <string name="title">title</string>
+    <string name="country">country</string>
+    <string name="year">year</string>
+    <string name="imdb_rate">Imdb_Rate</string>
+    <string name="genres">genres</string>
 </resources>
