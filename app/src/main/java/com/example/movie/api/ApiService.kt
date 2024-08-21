@@ -10,7 +10,4 @@ interface ApiService {
 
     @GET("v1/movies")
     fun getMovies(): Call<MovieListModel>
-
-
-
 }
